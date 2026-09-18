@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "quarto-website-template-main/cv/index.html",
+    "href": "quarto-website-template-main/cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "quarto-website-template-main/about/index.html",
+    "href": "quarto-website-template-main/about/index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a Master of Science student in Applied Anatomy at Case Western Reserve University School of Medicine. I completed my undergraduate education at Brown University, where I studied Biology and Music. My interdisciplinary education has allowed me to explore science and human health while continuing to develop as a creative."
+  },
+  {
+    "objectID": "quarto-website-template-main/about/index.html#my-background",
+    "href": "quarto-website-template-main/about/index.html#my-background",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a Master of Science student in Applied Anatomy at Case Western Reserve University School of Medicine. I completed my undergraduate education at Brown University, where I studied Biology and Music. My interdisciplinary education has allowed me to explore science and human health while continuing to develop as a creative."
+  },
+  {
+    "objectID": "quarto-website-template-main/about/index.html#medicine-and-service",
+    "href": "quarto-website-template-main/about/index.html#medicine-and-service",
+    "title": "About Me",
+    "section": "Medicine and Service",
+    "text": "Medicine and Service\nMy goal is to become a clinician who provides compassionate, patient-focused care, and contributes to improving healthcare access and outcomes."
+  },
+  {
+    "objectID": "quarto-website-template-main/about/index.html#music",
+    "href": "quarto-website-template-main/about/index.html#music",
+    "title": "About Me",
+    "section": "Music",
+    "text": "Music\nMusic is central to my identity and has greatly influenced my personal and professional development. At Brown, I studied classical voice through the Applied Music Program and performed with the Brown University Chorus. My undergraduate musical studies culminated in a senior voice recital featuring works from several musical traditions. Studying music has taught me discipline, attentive listening, collaboration, and emotional awareness. These qualities also influence how I approach service and medicine. Whether communicating with a patient or preparing a piece of music, I value careful preparation, empathy, and genuine connection."
+  },
+  {
+    "objectID": "quarto-website-template-main/resume/index.html",
+    "href": "quarto-website-template-main/resume/index.html",
+    "title": "Resume",
+    "section": "",
+    "text": "This page provides a downloadable copy of my resume.\nDownload My Resume{.btn .btn-primary download}"
+  },
+  {
+    "objectID": "quarto-website-template-main/404.html",
+    "href": "quarto-website-template-main/404.html",
+    "title": "404",
+    "section": "",
+    "text": "Page not found, sorry! Try the search or navigate back to the base website."
+  },
+  {
     "objectID": "cv/index.html",
     "href": "cv/index.html",
     "title": "Curriculum vitae",
@@ -107,6 +156,76 @@
   {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "Welcome to my website!",
+    "section": "",
+    "text": "Email\n  \n\n\n\n\nWelcome to my website!\nMy name is Joshua Dantus! I am a Masters student in the Applied Anatomy program at Case Western Reserve University School of Medicine. I completed my undergraduate education at Brown University, where I studied Biology and Music. My experiences in emergency medical services, biological research, education, and community service have strengthened my commitment to becoming a clinician. I am particularly interested in compassionate, patient-centered care and the ways healthcare systems can improve access and outcomes for diverse communities.\n\nView Source Code on GitHub"
+  },
+  {
+    "objectID": "quarto-website-template-main/experience/index.html",
+    "href": "quarto-website-template-main/experience/index.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Brown EMS and Warren Fire Department\nAs an emergency medical technician, I lead and assisted patient assessment, treatment, transport, and documentation in pre-hospital settings. This work strengthened my ability to communicate with patients, collaborate with a team of responders, adapt to rapidly changing circumstances, and remain composed under pressure."
+  },
+  {
+    "objectID": "quarto-website-template-main/experience/index.html#clinical-experience",
+    "href": "quarto-website-template-main/experience/index.html#clinical-experience",
+    "title": "Experience",
+    "section": "",
+    "text": "Brown EMS and Warren Fire Department\nAs an emergency medical technician, I lead and assisted patient assessment, treatment, transport, and documentation in pre-hospital settings. This work strengthened my ability to communicate with patients, collaborate with a team of responders, adapt to rapidly changing circumstances, and remain composed under pressure."
+  },
+  {
+    "objectID": "quarto-website-template-main/experience/index.html#research-experience",
+    "href": "quarto-website-template-main/experience/index.html#research-experience",
+    "title": "Experience",
+    "section": "Research Experience",
+    "text": "Research Experience\n\nUndergraduate Research Assistant\nBrown University\nMy undergraduate research experience in experimental biological physics introduced me to interdisciplinary scientific investigation. I participated in laboratory work involving biological systems, quantitative measurements, data collection, analysis, and scientific communication."
+  },
+  {
+    "objectID": "quarto-website-template-main/experience/index.html#education-and-community-service",
+    "href": "quarto-website-template-main/experience/index.html#education-and-community-service",
+    "title": "Experience",
+    "section": "Education and Community Service",
+    "text": "Education and Community Service\n\nEnglish for Speakers of Other Languages Instructor\nIn this role, I supported adult learners as they developed their English communication skills. This experience taught me to explain unfamiliar ideas clearly, adapt to individual learning needs, and create an encouraging environment for students from different backgrounds.\n\n\nElementary Education\nI have also worked with elementary-school students, including supporting STEM education. These experiences strengthened my patience, organization, and ability to communicate information in an accessible way."
+  },
+  {
+    "objectID": "quarto-website-template-main/experience/index.html#music",
+    "href": "quarto-website-template-main/experience/index.html#music",
+    "title": "Experience",
+    "section": "Music",
+    "text": "Music\n\nClassical Vocalist and Chorister\nBrown University\nI studied voice in the applied music program at Brown. There, I also performed in the Brown University Chorus. My musical studies culminated in a capstone recital, which combined my favorite pieces from voice study."
+  },
+  {
+    "objectID": "quarto-website-template-main/projects/index.html",
+    "href": "quarto-website-template-main/projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "quarto-website-template-main/projects/index.html#the-languages-of-middle-earth",
+    "href": "quarto-website-template-main/projects/index.html#the-languages-of-middle-earth",
+    "title": "Projects",
+    "section": "",
+    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "quarto-website-template-main/projects/index.html#the-history-of-the-war-of-the-ring",
+    "href": "quarto-website-template-main/projects/index.html#the-history-of-the-war-of-the-ring",
+    "title": "Projects",
+    "section": "The History of the War of the Ring",
+    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "quarto-website-template-main/photography/index.html",
+    "href": "quarto-website-template-main/photography/index.html",
+    "title": "Photography",
+    "section": "",
+    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "quarto-website-template-main/index.html",
+    "href": "quarto-website-template-main/index.html",
     "title": "Welcome to my website!",
     "section": "",
     "text": "Email\n  \n\n\n\n\nWelcome to my website!\nMy name is Joshua Dantus! I am a Masters student in the Applied Anatomy program at Case Western Reserve University School of Medicine. I completed my undergraduate education at Brown University, where I studied Biology and Music. My experiences in emergency medical services, biological research, education, and community service have strengthened my commitment to becoming a clinician. I am particularly interested in compassionate, patient-centered care and the ways healthcare systems can improve access and outcomes for diverse communities.\n\nView the tutorial for this template (+ download link)"

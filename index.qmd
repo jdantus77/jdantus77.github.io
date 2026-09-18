@@ -16,9 +16,8 @@ about:
 My name is Joshua Dantus! I am a Masters student in the Applied Anatomy program at Case Western Reserve
 University School of Medicine. I completed my undergraduate education at Brown University, where I studied Biology and Music.
 My experiences in emergency medical services, biological research, education, and community service have strengthened my commitment to becoming a clinician. I am particularly interested in compassionate, patient-centered care and the ways healthcare systems can improve access and outcomes for diverse communities.
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
-```
+
+::: {.text-center}
+[View Source Code on GitHub](https://github.com/jdantus77/jdantus77.github.io){.btn .btn-primary target="_blank"}
+:::
 
