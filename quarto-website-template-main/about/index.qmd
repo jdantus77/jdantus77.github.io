@@ -1,0 +1,19 @@
+---
+title: "About Me"
+format: html
+---
+
+## My Background
+
+I am a Master of Science student in Applied Anatomy at Case Western Reserve University School of Medicine. I completed my undergraduate education at Brown University, where I studied Biology and Music. My interdisciplinary education has allowed
+me to explore science and human health while continuing to develop as a creative.
+
+## Medicine and Service
+
+My goal is to become a clinician who provides compassionate, patient-focused care, and contributes to improving healthcare access and outcomes. 
+
+## Music
+
+Music is central to my identity and has greatly influenced my personal and professional development. At Brown, I studied classical voice through the Applied Music Program and performed with the Brown University Chorus. My undergraduate musical studies culminated in a senior voice recital featuring works from several musical traditions.
+Studying music has taught me discipline, attentive listening, collaboration, and emotional awareness. These qualities also influence how I approach service and medicine. Whether communicating with a patient or preparing a piece of music, I value careful preparation, empathy, and genuine connection.
+
