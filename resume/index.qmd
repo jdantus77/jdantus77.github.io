@@ -1,0 +1,8 @@
+---
+title: "Resume"
+format: html
+---
+This page provides a downloadable copy of my resume.
+
+[Download My Resume](Joshua-Dantus-Resume.pdf){.btn .btn-primary download}
+
